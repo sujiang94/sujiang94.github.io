@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Su Jiang"
   avatar           : "profile_photo.jpg"
-  bio              : "Postdoc Fellow at Stanford University"
-  location         : "Stanford, CA"
+  bio              : "Postdoc Fellow at Lawrence Berkeley National Laboratory (LBL)"
+  location         : "Berkeley, CA"
   employer         : 
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=M9oFDycAAAAJ&hl=en"
-  email            : "sujiang@stanford.edu"
+  email            : "sujiang@lbl.gov"
   researchgate     :  
   uri              : 
   bitbucket        : 
