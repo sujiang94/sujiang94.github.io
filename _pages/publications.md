@@ -39,9 +39,9 @@ author_profile: true
 [1] J. Zhao, **S. Jiang**, and D. Zhang. Mechanical Classification of Organic-Rich Shale Based on High-Speed Nanoindentation and Machine Learning, to be submitted to _Journal of Geophysical Research: Solid Earth_. 
 
 ### Book Chapters
-[1] **S. Jiang**, and L. J. Durlofsky. Deep-Neural-Network Surrogate Flow Models for History Matching and Uncertainty Quantification, in _Machine Learning Applications in Subsurface Energy Resource Management: State of the Art and Future Prognosis_, Chp. 14, S. Mishra, ed., CRC Press (2022). 
+[1] **S. Jiang**, and L. J. Durlofsky. [Deep-Neural-Network Surrogate Flow Models for History Matching and Uncertainty Quantification](https://doi.org/10.1201/9781003207009), in _Machine Learning Applications in Subsurface Energy Resource Management: State of the Art and Future Prognosis_, Chp. 14, S. Mishra, ed., CRC Press (2022). 
 
 ### Conference Proceedings 
-[2] **S. Jiang**, H. Tang, P. Fu, and H. Jo. A Transfer Learning-Based Surrogate Model for Geological Carbon Storage with Multi-Fidelity Training Data. _NeurIPS 2021 Workshop, Tackling Climate Change with Machine Learning_ (2021).
+[2] **S. Jiang**, H. Tang, P. Fu, and H. Jo. [A Transfer Learning-Based Surrogate Model for Geological Carbon Storage with Multi-Fidelity Training Data](https://www.climatechange.ai/papers/neurips2021/24). _NeurIPS 2021 Workshop, Tackling Climate Change with Machine Learning_ (2021).
 
-[1] **S. Jiang**, W. Sun, and L. J. Durlofsky. A Data-Space Approach for Well Control Optimization under Uncertainty. _ECMOR XVI-16th European Conference on the Mathematics of Geological Reservoirs_ (2018), Barcelona, Spain.
+[1] **S. Jiang**, W. Sun, and L. J. Durlofsky. [A Data-Space Approach for Well Control Optimization under Uncertainty](https://www.earthdoc.org/content/papers/10.3997/2214-4609.201802227). _ECMOR XVI-16th European Conference on the Mathematics of Geological Reservoirs_ (2018), Barcelona, Spain.
